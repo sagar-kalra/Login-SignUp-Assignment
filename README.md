@@ -19,3 +19,14 @@
 1. Navigate to `android` folder and create a file `local.properties` that would contain the path to your android SDK. (ex - `sdk.dir=/home/madhav/Android/Sdk`)
 2. For the first run `react-native run-android` and it should build apk in your device.
 3. For next subsequent changes enable `hot reloading`.
+
+## Screenshots
+
+<table>
+    <tr>
+     <td><kbd><img src="./assets/images/image1.jpg"></kbd></td>
+     <td><kbd><img src="./assets/images/image2.jpg"></kbd></td>
+     <td><kbd><img src="./assets/images/image3.jpg"></kbd></td>
+     <td><kbd><img src="./assets/images/image4.jpg"></kbd></td>
+    </tr>
+  </table>
