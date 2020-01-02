@@ -16,7 +16,7 @@
 
 ### Running on device
 
-1. Navigate to `android` folder and create a file `local.properties` that would contain the path to your android SDK. (ex - `sdk.dir=/home/madhav/Android/Sdk`)
+1. Navigate to `android` folder and create a file `local.properties` that would contain the path to your android SDK. (ex - `sdk.dir=/home/sagar/Android/Sdk`)
 2. For the first run `react-native run-android` and it should build apk in your device.
 3. For next subsequent changes enable `hot reloading`.
 
